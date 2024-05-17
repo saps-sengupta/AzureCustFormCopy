@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    width: 100%;
+    height: fit-content;
+    min-height: 130px;
+}
